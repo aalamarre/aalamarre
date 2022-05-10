@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aalamarre
 - 👀 I’m interested in Making Music and Retro Video Games
-- 🌱 I’m currently learning Swift and I'm aiming to learn Python too
-- 💞️ I’m looking to collaborate on Learning New Things and Create My Own Video Games
+- 🌱 I’m currently learning Swift and I'm aiming to learn Python soon
+- 💞️ I’m looking to collaborate on Making My Own Video Games and Learning New Things
 - 📫 How to reach me contact@alamarre.com
 
 <!---
